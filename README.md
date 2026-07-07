@@ -1,6 +1,6 @@
 # CodeAlpha Network Sniffer
 
-A Python-based network packet sniffer built using Scapy to capture and analyze real-time network traffic. Developed as **Task 1** of the CodeAlpha Cyber Security Internship.
+A Python-based network packet sniffer built using Scapy to capture and analyze real-time network traffic. Developed as Task 1 of the CodeAlpha Cyber Security Internship.
 
 ## 📌 Features
 - Captures live network packets on Windows
@@ -16,4 +16,9 @@ A Python-based network packet sniffer built using Scapy to capture and analyze r
 ## ⚙️ How to Run
 1. Install Npcap from [npcap.com](https://npcap.com)
 2. Install Scapy:
+3.  Run the script (as Administrator):
+## ⚠️ Disclaimer
+This tool is built strictly for educational purposes as part of the CodeAlpha Cyber Security Internship.
 
+## 👩‍💻 Author
+Iqra Afzal — BS Information Technology, University of the Punjab
